@@ -35,16 +35,16 @@ So far, this web application, built with Flask, provides three key functionaliti
   ```bash
     git clone https://github.com/cbone95/CFG_Group_2_Project.git
     cd code
-    ```
+  ```
 
-2. **Install the required Python packages using 'pip'**:
+2. **Install the required Python packages using 'pip'**
 
     ```bash
     pip install flask requests
     pip install mysql-connector-python
     pip install matplotlib
     pip install pandas
-    ```
+   ```
 3. **Set up your environment**:
 - Make sure that you have set up the configuration for your database in 'config.py', and that the database is running and accessible. 
 

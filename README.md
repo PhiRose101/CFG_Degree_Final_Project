@@ -111,7 +111,7 @@ To send data to the database, run the `main.py` script:
 - **`<body>` Content**: Contains sections for displaying the NASA photo of the day, Aurora Borealis status, and a chart comparing geomagnetic storm and solar flare data.
 - **`<script>` Section**: Defines JavaScript functions to fetch and display NASA photo and Aurora Borealis data asynchronously when the page loads.
 
-### `style_test.css`
+### `style.css`
 
 - **`body` Styles**: Sets the overall font, background colour, text colour, and layout for the pay, centring content and removing default margins and padding.
 - **`h1` Styles**: Adds top margin and sets the colour for the main heading.
